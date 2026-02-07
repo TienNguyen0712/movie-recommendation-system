@@ -1,9 +1,10 @@
-🎯 Recommendation System Project
-📌 Giới thiệu
+# 🎥 Recommendation System Project
+
+## 📌 Giới thiệu
 
 Dự án này tập trung vào việc xây dựng và đánh giá các hệ thống gợi ý (Recommendation Systems) nhằm đề xuất sản phẩm/nội dung phù hợp cho người dùng dựa trên dữ liệu hành vi và/hoặc đặc trưng người dùng – sản phẩm.
 
-Mục tiêu chính:
+### Mục tiêu chính:
 
 Hiểu và triển khai các thuật toán recommend phổ biến
 
@@ -11,7 +12,9 @@ So sánh hiệu quả giữa các phương pháp
 
 Đánh giá mô hình bằng các metric tiêu chuẩn trong recommender systems
 
-🧠 Các phương pháp được sử dụng
+---
+
+## 🧠 Các phương pháp được sử dụng
 
 Dự án bao gồm (có thể điều chỉnh theo thực tế):
 
@@ -41,7 +44,9 @@ Similarity-based recommendation
 
 Kết hợp Collaborative + Content-based
 
-📊 Dataset
+---
+
+## 📊 Dataset
 
 Nguồn dữ liệu: (ví dụ: MovieLens, Amazon Reviews, hoặc dataset tự thu thập)
 
@@ -65,7 +70,9 @@ timestamp (nếu có)
 
 metadata (genre, category, description…)
 
-🧪 Đánh giá mô hình
+---
+
+## 🧪 Đánh giá mô hình
 
 Các metric được sử dụng:
 
@@ -85,7 +92,9 @@ Train/Test split theo thời gian
 
 Cross-validation (nếu phù hợp)
 
-🛠️ Công nghệ & Thư viện
+---
+
+## 🛠️ Công nghệ & Thư viện
 
 Python 3.x
 
@@ -99,7 +108,7 @@ Matplotlib / Seaborn
 
 ---
 
-📁 Cấu trúc thư mục
+## 📁 Cấu trúc thư mục
 
 ```
 recommendation-system/
@@ -140,7 +149,9 @@ pip install -r requirements.txt
 # Chạy notebook hoặc script
 jupyter notebook
 ```
-📈 Kết quả & Nhận xét
+---
+
+## 📈 Kết quả & Nhận xét
 
 So sánh hiệu năng giữa các mô hình
 
@@ -148,7 +159,7 @@ Nhận xét ưu/nhược điểm của từng phương pháp
 
 Thảo luận về khả năng mở rộng và áp dụng thực tế
 
-🔮 Hướng phát triển
+## 🔮 Hướng phát triển
 
 Deep Learning-based Recommender (Neural CF, AutoEncoder)
 
@@ -158,7 +169,9 @@ Online Recommendation / A/B Testing
 
 Xử lý cold-start problem nâng cao
 
-📚 Tài liệu tham khảo
+---
+
+## 📚 Tài liệu tham khảo
 
 Ricci et al., Recommender Systems Handbook
 
