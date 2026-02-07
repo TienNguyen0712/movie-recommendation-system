@@ -159,6 +159,8 @@ Nhận xét ưu/nhược điểm của từng phương pháp
 
 Thảo luận về khả năng mở rộng và áp dụng thực tế
 
+---
+
 ## 🔮 Hướng phát triển
 
 Deep Learning-based Recommender (Neural CF, AutoEncoder)
