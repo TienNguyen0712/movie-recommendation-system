@@ -3,8 +3,6 @@
 ![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-yellow)
 ![Dataset](https://img.shields.io/badge/Dataset-MovieLens-ff69b4)
 ![Collaborative Filtering](https://img.shields.io/badge/Method-Collaborative%20Filtering-blue)
-![Matrix Factorization](https://img.shields.io/badge/Method-Matrix%20Factorization-red)
-![Metric](https://img.shields.io/badge/Evaluation-Precision%40K%20%7C%20Recall%40K-success)
 
 
 # 🎥 Recommendation System Project
