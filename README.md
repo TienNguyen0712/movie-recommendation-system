@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-yellow)
+![Recommender System](https://img.shields.io/badge/Topic-Recommendation%20System-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
 # 🎥 Recommendation System Project
 
 ## 📌 Giới thiệu
